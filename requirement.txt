@@ -6,4 +6,5 @@ scikit-learn
 datasets
 empath
 pandas
+joblib
 numpy
